@@ -1,7 +1,3 @@
-تمام 😎
-ممكن نعمل نسخة README **أنيقة وجذابة** بحيث تظهر **Screenshots جنب بعض في صف واحد**، زي Portfolio Projects. ده مثال جاهز:
-
----
 
 # Flutter Authentication UI
 
